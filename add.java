@@ -13,6 +13,6 @@ class AddNumbers
       y = in.nextInt();
       z = x + y;
      
-      System.out.println("Sum of the integers = " + z);
+      System.out.println("Sum of the nos = " + z);
    }
 }
