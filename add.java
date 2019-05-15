@@ -11,8 +11,7 @@ class AddNumbers
      
       x = in.nextInt();
       y = in.nextInt();
-      z = x + y;
      
-      System.out.println("Sum of the nos = " + z);
+      System.out.println("Sum of the nos = " +(x + y));
    }
 }
